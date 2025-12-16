@@ -1,0 +1,8 @@
+djangorestframework
+python-dotenv
+google-generativeai
+firebase-admin
+google-cloud-storage
+pypdf
+faiss-cpu
+numpy
